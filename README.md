@@ -1,3 +1,4 @@
+Financial-operations-analytics
 > End-to-end financial analytics project covering **Revenue Forecasting**, **Churn Prediction**, and **Profitability Analysis**.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
